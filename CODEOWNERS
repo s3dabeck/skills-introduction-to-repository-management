@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @s3dabeck
+/src/backend/database.py      @s3dabeck
+/src/backend/routers/auth.py  @s3dabeck
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @s3dabeck
